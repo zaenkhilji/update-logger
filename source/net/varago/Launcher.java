@@ -34,6 +34,10 @@ import javax.swing.event.DocumentListener;
 
 public class Launcher extends JPanel implements ActionListener {
 
+	/**
+	 * @author: Zaen Khilji
+	 */
+
 	private static final long serialVersionUID = -8682315389095747602L;
 
 	protected JTextField textField, input;

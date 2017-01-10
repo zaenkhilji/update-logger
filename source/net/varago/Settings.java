@@ -12,6 +12,10 @@ import com.google.gson.JsonObject;
 
 public class Settings {
 
+	/**
+	 * @author: Zaen Khilji
+	 */
+
 	public static final String PATH = "varago-logs.txt";
 
 	private static BufferedReader bufferedReader;
