@@ -6,7 +6,7 @@ import javax.swing.text.Element;
 public class DefineLineNumber extends JTextArea {
 
 	/**
-	 * @author: Pax M
+	 * @author: Zaen Khilji
 	 */
 
 	private JTextArea textArea;
